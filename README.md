@@ -10,12 +10,13 @@ Natural unit system with GeV $\equiv$ 1 for high energy physics (HEP).
 
 ```julia
 julia> ]
-pkg> add https://github.com/physcxia/HEPUnits.jl
+pkg> add HEPUnits
 ```
 
 ## Usage
 
-All units are not exported for cleanliness. We can use this package as follows,
+None of the units are exported for cleanliness.
+We can use this package as follows,
 
 ```julia
 using HEPUnits; const units = HEPUnits

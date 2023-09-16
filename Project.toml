@@ -1,7 +1,7 @@
 name = "HEPUnits"
 uuid = "feeeda5f-c413-4abf-b284-c419e25b99f6"
 authors = ["Chen Xia <xiachen1996@outlook.com> and contributors"]
-version = "0.1.0-DEV"
+version = "0.1.0"
 
 [compat]
 julia = "1"
